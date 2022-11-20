@@ -254,14 +254,14 @@ body {
 
 #inpi {
     /* Background */
-    background-image: url(../assets/images/icon-dollar.svg);
+    background-image: url(icon-dollar.svg);
     background-repeat: no-repeat;
     background-position: 20px;
 }
 
 #inpi-2 {
     /* Background */
-    background-image: url(../assets/images/icon-person.svg);
+    background-image: url(icon-person.svg);
     background-repeat: no-repeat;
     background-position: 20px;
 }
