@@ -1,3 +1,2 @@
-# TipCalculator
-Calculadora de gorjeta
-Projeto comemorativo de um ano de aprendizado de programação
+# BillSplitter
+Calculadora de gorjeta com porcentagens fixas e variáveis. Mostra o valor da gorjeta pago por pessoa e o preço final pago por pessoa. Possui validação nos inputs.
